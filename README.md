@@ -1,4 +1,7 @@
 Hello, I’m Gcc_Gdb_7_8_1.  
+
+If you come here from "Gdb781-Keys" Part in my USB flash drive, please give this USB flash drive to Gcc_Gdb_7_8_1. That is important for me!!!
+
 If you want to understand more message, please see the table below.
 
 |  _Site_  |  _Username_  |
